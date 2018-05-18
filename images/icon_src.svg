@@ -1,0 +1,15 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+
+ <desc/>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="3.960151" height="3.960151" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" d="m19.85598,22.827847c-1.978271,1.400284 -4.398818,2.223917 -7.013013,2.223917c-6.6818,0 -12.098469,-5.380763 -12.098469,-12.01827c0,-6.637506 5.41667,-12.01827 12.098469,-12.01827c6.6818,0 12.098469,5.380763 12.098469,12.01827c0,2.596865 -0.829129,5.001368 -2.238758,6.966524l7.949121,7.896427c0.783127,0.777936 0.776594,2.022675 -0.000285,2.794403l-0.033363,0.033142c-0.7749,0.769763 -2.036329,0.771856 -2.813051,0.000283l-7.949121,-7.896427l0,0zm-7.013013,-0.603911c5.109611,0 9.251771,-4.114702 9.251771,-9.190441c0,-5.075739 -4.14216,-9.190441 -9.251771,-9.190441c-5.109611,0 -9.251771,4.114702 -9.251771,9.190441c0,5.075739 4.14216,9.190441 9.251771,9.190441l0,0z" id="search" fill="#00aed8"/>
+  <text fill="#00aed8" stroke-width="0" stroke-opacity="null" x="23.900212" y="-23.769187" id="svg_12" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">KK</text>
+  <text stroke="null" transform="matrix(0.48408446230656205,0,0,0.5210181324406449,11.11858534997782,2.2264267069203894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="29.351471" x="-12.932089" stroke-opacity="null" stroke-width="0" fill="#00aed8">KK</text>
+ </g>
+</svg>
