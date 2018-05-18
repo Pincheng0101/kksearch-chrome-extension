@@ -1,0 +1,26 @@
+{
+    "name": "KKBOX Widget Search",
+    "version": "0.1",
+    "browser_action": {
+        "default_icon": "images/icon48.png"
+    },
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.google.com.tw/search?*"],
+            "js": ["kkbox_embedded.js"]
+        }
+    ],
+    "manifest_version": 2,
+    "permissions": [
+        "https://kk-search.herokuapp.com/"
+    ],
+    "web_accessible_resources": [
+        "images/loading.gif",
+        "images/404.svg"
+    ]
+}
